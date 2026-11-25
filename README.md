@@ -1,5 +1,7 @@
 # The Meeting That Should Have Been an Email
 
+Entry note: the decision was emailed at 9:00 — then an hour-long meeting was called so twelve people could watch it being read aloud, slower.
+
 A deterministic Python entry for the [The Meeting That Should Have Been an Email](https://make.fun/bounty/u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9) competition on make.fun. The program writes the entry text to `entry.txt`, with no trailing newline. The readable source is `entry_source.py`; `main.py` is the official make.fun compress output of that source.
 
 ## Running
